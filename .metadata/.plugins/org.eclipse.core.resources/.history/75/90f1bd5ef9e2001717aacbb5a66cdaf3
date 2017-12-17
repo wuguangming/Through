@@ -1,0 +1,9 @@
+package com.huawei.service;
+
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+
+
+@Service
+public class CommonService {
+
+}

@@ -1,0 +1,5 @@
+package com.huawei.service;
+@Service
+public class CommonService {
+
+}
