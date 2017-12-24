@@ -1,0 +1,5 @@
+package com.huawei.mybatis.mapper;
+
+public interface UserMapper {
+	public List<User> queryUserList();
+}

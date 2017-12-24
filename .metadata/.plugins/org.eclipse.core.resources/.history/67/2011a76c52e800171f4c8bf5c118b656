@@ -1,0 +1,2 @@
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.url=mysql://127.0.0.1:3306/mybatis?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true

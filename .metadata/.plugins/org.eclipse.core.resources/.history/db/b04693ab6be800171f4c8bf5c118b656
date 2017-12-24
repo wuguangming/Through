@@ -1,0 +1,5 @@
+package com.huawei.mybatis.pojo;
+
+public class User {
+
+}

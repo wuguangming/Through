@@ -1,0 +1,22 @@
+package com.huawei.mybatis.pojo;
+
+import java.util.Date;
+
+public class User {
+
+	private String userName;
+	
+	private String password;
+	
+	private String name;
+	
+	private Integer age;
+	
+	private Integer sex;
+	
+	private Date birthday;
+	
+	
+	
+	
+}
